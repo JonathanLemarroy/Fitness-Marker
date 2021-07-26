@@ -1,0 +1,9 @@
+[submodule "Project2Backend"]
+	path = Project2Backend
+	url = https://github.com/JonathanLemarroy/Project2Backend.git
+[submodule "Project2Web"]
+	path = Project2Web
+	url = https://github.com/JonathanLemarroy/Project2Web.git
+[submodule "Project2Automation"]
+	path = Project2Automation
+	url = https://github.com/JonathanLemarroy/Project2Automation.git
